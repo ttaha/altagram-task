@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.App-pagination {
+  height: 100px;
+}
+.App-button {
+  display: inline-block;
+  width: 50%;
+  height: 100%;
+}
